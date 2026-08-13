@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|c:\\users\\fizam\\onedrive\\desktop\\fizalevel1gamedev\\gameproject\\assets\\scenes\\archui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\archui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|c:\\users\\fizam\\onedrive\\desktop\\fizalevel1gamedev\\gameproject\\assets\\scenes\\scripts1\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\audiomanager34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\audiomanager34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\enemy_traps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\enemy_traps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\player3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\player3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\keypick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\keypick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\assets\\scenes\\scripts1\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE2866-0A53-71D6-C680-423D67BBAD46}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts1\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "archUI.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\archUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\archUI.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\archUI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\archUI.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:18:45.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\UI.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\UI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\UI.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:53:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "powerup.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\powerup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\powerup.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\powerup.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\powerup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:08:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enemy_traps.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\enemy_traps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\enemy_traps.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\enemy_traps.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\enemy_traps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:26:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "player3.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\player3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\player3.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\player3.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\player3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:54:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "key.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\key.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\key.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\key.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:22:14.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "keypick.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\keypick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\keypick.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\keypick.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\keypick.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:24:48.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\HealthBar.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:43:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\EnemyAI.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAcwKsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:27:56.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager34.cs",
+              "DocumentMoniker": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\AudioManager34.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts1\\AudioManager34.cs",
+              "ToolTip": "C:\\Users\\fizam\\OneDrive\\Desktop\\fizalevel1gamedev\\GameProject\\Assets\\Scenes\\scripts1\\AudioManager34.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts1\\AudioManager34.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAKoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:48:44.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
